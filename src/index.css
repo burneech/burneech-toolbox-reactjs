@@ -4,8 +4,8 @@
   height: auto;
   display: block;
   margin: 0 auto 20px auto;
-  transition: transform 0.9s ease-in-out;
   filter: drop-shadow(0 0 20px rgb(100 100 100 / 0.4));
+  transition: transform 0.9s ease-in-out;
 }
 
 .logo:hover {
