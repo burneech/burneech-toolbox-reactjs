@@ -18,8 +18,8 @@ export default function Category(props) {
                     id="panel1a-header"
                 >
                     <div>
-                        <Typography gutterBottom variant="h5">{props.data.CategoryTitle}</Typography>
-                        <Typography gutterBottom variant="body2">{props.data.CategorySummary}</Typography>
+                        <Typography variant="h5">{props.data.CategoryTitle}</Typography>
+                        <Typography gutterBottom variant="body2" color="text.secondary">{props.data.CategorySummary}</Typography>
                     </div>
                 </AccordionSummary>
                 <AccordionDetails>
@@ -44,8 +44,8 @@ export default function Category(props) {
                     id="panel1a-header"
                 >
                     <div>
-                        <Typography gutterBottom variant="h5">{props.data.CategoryTitle}</Typography>
-                        <Typography gutterBottom variant="body2">{props.data.CategorySummary}</Typography>
+                        <Typography variant="h5">{props.data.CategoryTitle}</Typography>
+                        <Typography gutterBottom variant="body2" color="text.secondary">{props.data.CategorySummary}</Typography>
                     </div>
                 </AccordionSummary>
                 <AccordionDetails>
