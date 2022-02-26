@@ -1,0 +1,565 @@
+[
+    {
+        "CategoryID": 1,
+        "CategoryTitle": "Calculators",
+        "CategorySummary": "Calculators, converters & generators.",
+        "Subcategories": [
+            {
+                "SubcategoryTitle": "Calculators",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "RapidTables Calculators",
+                        "PageURL": "https://www.rapidtables.com/calc/index.html",
+                        "PageSummary": "Age, date, grade, interest, math and many more calculators."
+                    },
+                    {
+                        "PageTitle": "Date Calculator",
+                        "PageURL": "https://www.calculator.net/date-calculator.html",
+                        "PageSummary": "Find the number of days, years, months etc. between dates. Subtract from a date."
+                    },
+                    {
+                        "PageTitle": "IP Subnet calculator",
+                        "PageURL": "https://www.calculator.net/ip-subnet-calculator.html",
+                        "PageSummary": "This calculator returns a variety of information regarding IPv4 and IPv6 subnets including network addresses, host ranges, subnet mask, IP class etc."
+                    },
+                    {
+                        "PageTitle": "Visual Subnet Calculator",
+                        "PageURL": "https://www.davidc.net/sites/default/subnets/subnets.html",
+                        "PageSummary": "Online network subnetting calculator"
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "Converters",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "RapidTables Converters",
+                        "PageURL": "https://www.rapidtables.com/convert/index.html",
+                        "PageSummary": "Length, weight, power, temperature, number and many more converters."
+                    },
+                    {
+                        "PageTitle": "Epoch Converter",
+                        "PageURL": "https://www.epochconverter.com/",
+                        "PageSummary": "Epoch & Unix timestamp conversion tools"
+                    },
+                    {
+                        "PageTitle": "CyberChef",
+                        "PageURL": "https://gchq.github.io/CyberChef/",
+                        "PageSummary": "The Cyber Swiss Army Knife. Supports more than 300 different operations."
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "Generators",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Favicon Generator",
+                        "PageURL": "https://realfavicongenerator.net/",
+                        "PageSummary": "Favicon icon generator for perfect icons on all browsers and platforms."
+                    },
+                    {
+                        "PageTitle": "Favicon.io",
+                        "PageURL": "https://favicon.io/",
+                        "PageSummary": "Quickly generate your favicon from text, image, or choose from hundreds of emojis."
+                    },
+                    {
+                        "PageTitle": "Random User Generator",
+                        "PageURL": "https://randomuser.me/",
+                        "PageSummary": "A free, open-source API for generating random user data. Like Lorem Ipsum, but for people."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryID": 2,
+        "CategoryTitle": "Editors",
+        "CategorySummary": "Different kinds of online editors.",
+        "Subcategories": [
+            {
+                "SubcategoryTitle": "Diagrams",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Diagrams.net (ex Draw.io)",
+                        "PageURL": "https://app.diagrams.net/",
+                        "PageSummary": "Free online software for creating diagrams, flowcharts, UMLs etc."
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "Images & posters",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Photopea",
+                        "PageURL": "https://www.photopea.com/",
+                        "PageSummary": "Free online photo editor supporting Photoshop, GIMP, Sketch App, Adobe XD and CorelDRAW formats."
+                    },
+                    {
+                        "PageTitle": "Canva",
+                        "PageURL": "https://www.canva.com/",
+                        "PageSummary": "Graphic design platform used to create social media graphics, posters, presentations and other visual content."
+                    },
+                    {
+                        "PageTitle": "Profile Pic Maker",
+                        "PageURL": "https://pfpmaker.com/",
+                        "PageSummary": "Remove background and generate your great looking profile pictures."
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "Whiteboards & designers",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Figma",
+                        "PageURL": "https://www.figma.com/",
+                        "PageSummary": "A collaborative interface design tool."
+                    },
+                    {
+                        "PageTitle": "Miro",
+                        "PageURL": "https://miro.com",
+                        "PageSummary": "Team collaboration whiteboard."
+                    },
+                    {
+                        "PageTitle": "Whimsical",
+                        "PageURL": "https://whimsical.com/",
+                        "PageSummary": "Visual workspace for thinking and collaboration. Docs, flowcharts, mind maps, notes..."
+                    },
+                    {
+                        "PageTitle": "Google Jamboard",
+                        "PageURL": "https://jamboard.google.com/",
+                        "PageSummary": "A simple interactive whiteboard."
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "Markdown",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Dillinger",
+                        "PageURL": "https://dillinger.io/",
+                        "PageSummary": "An online markdown editor."
+                    },
+                    {
+                        "PageTitle": "StackEdit",
+                        "PageURL": "https://stackedit.io/app#",
+                        "PageSummary": "Online markdown editor with inline comments and collaborator discussions."
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "3D",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "SketchUp",
+                        "PageURL": "https://app.sketchup.com/app",
+                        "PageSummary": "A simple (but still powerful enough) and free 3D modeling software."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryID": 3,
+        "CategoryTitle": "Media",
+        "CategorySummary": "Icons, photos, videos, audio etc.",
+        "Subcategories": [
+            {
+                "SubcategoryTitle": "Icons",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Feather Icons",
+                        "PageURL": "https://feathericons.com/",
+                        "PageSummary": "A unified collection set of open source icons."
+                    },
+                    {
+                        "PageTitle": "Google Icons",
+                        "PageURL": "https://fonts.google.com/icons",
+                        "PageSummary": "Free icons by Google."
+                    },
+                    {
+                        "PageTitle": "Bootstrap Icons",
+                        "PageURL": "https://icons.getbootstrap.com/",
+                        "PageSummary": "Free, high quality, open source icon library with over 1,500 icons."
+                    },
+                    {
+                        "PageTitle": "Iconify",
+                        "PageURL": "https://iconify.design/",
+                        "PageSummary": "A unified open source icon framework."
+                    },
+                    {
+                        "PageTitle": "Open Iconic",
+                        "PageURL": "https://useiconic.com/open",
+                        "PageSummary": "An open source icon set."
+                    },
+                    {
+                        "PageTitle": "Font Awesome",
+                        "PageURL": "https://fontawesome.com/v6.0/icons?m=free",
+                        "PageSummary": "Free Version 6 Beta icons by Font Awesome."
+                    },
+                    {
+                        "PageTitle": "Flaticon",
+                        "PageURL": "https://www.flaticon.com/",
+                        "PageSummary": "Free vector icons and stickers."
+                    },
+                    {
+                        "PageTitle": "The Noun Project",
+                        "PageURL": "https://thenounproject.com/",
+                        "PageSummary": "Free icons & stock photos."
+                    },
+                    {
+                        "PageTitle": "Icon-icons.com",
+                        "PageURL": "https://icon-icons.com/",
+                        "PageSummary": "Free icons for personal and commercial use."
+                    },
+                    {
+                        "PageTitle": "AutoDraw",
+                        "PageURL": "https://www.autodraw.com/",
+                        "PageSummary": "Find icons by drawing."
+                    },
+                    {
+                        "PageTitle": "CSS Icons",
+                        "PageURL": "https://css.gg/app",
+                        "PageSummary": "App for css.gg icons with custom selection for all pure CSS icons."
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "Photos",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Unsplash",
+                        "PageURL": "https://unsplash.com/",
+                        "PageSummary": "Free images and photos that you can download and use for any project."
+                    },
+                    {
+                        "PageTitle": "Pexels",
+                        "PageURL": "https://www.pexels.com/",
+                        "PageSummary": "Free stock photos, royalty free images & videos shared by creators."
+                    },
+                    {
+                        "PageTitle": "Pixabay",
+                        "PageURL": "https://pixabay.com/",
+                        "PageSummary": "Free images & royalty free stock."
+                    },
+                    {
+                        "PageTitle": "Vecteezy",
+                        "PageURL": "https://www.vecteezy.com/free-photos",
+                        "PageSummary": "High quality photography with worry-free licensing for personal and commercial use."
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "Videos",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Pexels",
+                        "PageURL": "https://www.pexels.com/",
+                        "PageSummary": "Free stock photos, royalty free images & videos shared by creators."
+                    },
+                    {
+                        "PageTitle": "Videezy",
+                        "PageURL": "https://www.videezy.com/",
+                        "PageSummary": "Free HD & 4K stock footage."
+                    },
+                    {
+                        "PageTitle": "Videvo",
+                        "PageURL": "https://www.videvo.net/",
+                        "PageSummary": "Free stock video footage, royalty-free clips."
+                    },
+                    {
+                        "PageTitle": "Vecteezy",
+                        "PageURL": "https://www.vecteezy.com/free-videos",
+                        "PageSummary": "High quality videos with worry-free licensing for personal and commercial use."
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "Audio",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Mixkit",
+                        "PageURL": "https://mixkit.co/",
+                        "PageSummary": "Stock video clips, stock music, sound effects & video templates."
+                    },
+                    {
+                        "PageTitle": "Freesound",
+                        "PageURL": "https://freesound.org/",
+                        "PageSummary": "A collaborative database of Creative Commons Licensed sounds."
+                    },
+                    {
+                        "PageTitle": "Audiojungle",
+                        "PageURL": "https://audiojungle.net/",
+                        "PageSummary": "Royalty free music and audio tracks from $1."
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "Animations",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Rive",
+                        "PageURL": "https://rive.app/",
+                        "PageSummary": "Create and ship interactive animations to any platform."
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "Maps & Charts",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "amCharts",
+                        "PageURL": "https://www.amcharts.com/svg-maps/",
+                        "PageSummary": "Free SVG maps."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryID": 4,
+        "CategoryTitle": "Placeholders and samples",
+        "CategorySummary": "Placeholder images, sample files, fake data APIs.",
+        "Subcategories": [
+            {
+                "SubcategoryTitle": "",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Placeholder.com",
+                        "PageURL": "https://placeholder.com",
+                        "PageSummary": "Free image placeholder service."
+                    },
+                    {
+                        "PageTitle": "Lorem Picsum",
+                        "PageURL": "https://picsum.photos",
+                        "PageSummary": "The Lorem Ipsum... but for photos."
+                    },
+                    {
+                        "PageTitle": "Logoipsum",
+                        "PageURL": "https://logoipsum.com",
+                        "PageSummary": "Free placeholder logo for your design mock-up."
+                    },
+                    {
+                        "PageTitle": "File Examples",
+                        "PageURL": "https://file-examples.com",
+                        "PageSummary": "Download files in many resolution or size for test or demo use."
+                    },
+                    {
+                        "PageTitle": "File Samples",
+                        "PageURL": "https://filesamples.com",
+                        "PageSummary": "File samples to use for testing purposes."
+                    },
+                    {
+                        "PageTitle": "Sample Files",
+                        "PageURL": "http://techslides.com/sample-files-for-development",
+                        "PageSummary": "Sample files for development."
+                    },
+                    {
+                        "PageTitle": "JSONPlaceholder",
+                        "PageURL": "https://jsonplaceholder.typicode.com",
+                        "PageSummary": "Free fake API for testing and prototyping."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryID": 5,
+        "CategoryTitle": "Colors",
+        "CategorySummary": "UI colors, palettes, color pickers etc.",
+        "Subcategories": [
+            {
+                "SubcategoryTitle": "",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "HTML Color Picker",
+                        "PageURL": "https://www.w3schools.com/colors/colors_picker.asp",
+                        "PageSummary": "W3 Schools online HTML color picker."
+                    },
+                    {
+                        "PageTitle": "Flat UI Colors",
+                        "PageURL": "https://flatuicolors.com",
+                        "PageSummary": "A total set of 280 colors in 14 palettes for your next project."
+                    },
+                    {
+                        "PageTitle": "ColorHexa",
+                        "PageURL": "https://www.colorhexa.com",
+                        "PageSummary": "Color encyclopedia, information and conversion."
+                    },
+                    {
+                        "PageTitle": "ColorMania",
+                        "PageURL": "http://www.blacksunsoftware.com/colormania.html",
+                        "PageSummary": "An advanced color picker, created for web-designers, graphic artists and application developers."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryID": 6,
+        "CategoryTitle": "Text",
+        "CategorySummary": "Text, characters, dictionaries, encoding, licences etc.",
+        "Subcategories": [
+            {
+                "SubcategoryTitle": "Unicode symbols",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Unicode Search",
+                        "PageURL": "http://xahlee.info/comp/unicode_index.html",
+                        "PageSummary": "A search engine for unicode symbols and emojis."
+                    },
+                    {
+                        "PageTitle": "Unicode Character Table",
+                        "PageURL": "https://unicode-table.com/en",
+                        "PageSummary": "A table / search engine for unicode symbols and emojis."
+                    },
+                    {
+                        "PageTitle": "ALT+NUMPAD ASCII Key Combos",
+                        "PageURL": "https://www.irongeek.com/alt-numpad-ascii-key-combos-and-chart.html",
+                        "PageSummary": "The α and Ω of Creating Obscure Passwords."
+                    },
+                    {
+                        "PageTitle": "HTML5 Character Reference",
+                        "PageURL": "https://dev.w3.org/html5/html-author/charref",
+                        "PageSummary": "HTML5 character reference."
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "Dictionaries & encyclopedias",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "HrOpenWiki IT Dictionary",
+                        "PageURL": "http://wiki.open.hr/l10n/rjecnik.html",
+                        "PageSummary": "English-Croatian dictionary of information technology.",
+                        "PageTags": ["Croatian", "English"]
+                    },
+                    {
+                        "PageTitle": "Stjepan Groš's IT Dictionary",
+                        "PageURL": "http://www.zemris.fer.hr/~sgros/stuff/rjecnik.shtml",
+                        "PageSummary": "English-Croatian dictionary of information technology.",
+                        "PageTags": ["Croatian", "English"]
+                    },
+                    {
+                        "PageTitle": "Enciklopedija.hr",
+                        "PageURL": "https://www.enciklopedija.hr/",
+                        "PageSummary": "Hrvatska enciklopedija Leksikografskog zavoda Miroslav Krleža.",
+                        "PageTags": ["Croatian"]
+                    },
+                    {
+                        "PageTitle": "Struna.hr",
+                        "PageURL": "http://struna.ihjj.hr/",
+                        "PageSummary": "Terminološka baza hrvatskoga strukovnog nazivlja. (Također: http://nazivlje.hr/)",
+                        "PageTags": ["Croatian"]
+                    },
+                    {
+                        "PageTitle": "Hrvatski jezični portal",
+                        "PageURL": "https://hjp.znanje.hr/index.php",
+                        "PageSummary": "Pretraživ rječnik hrvatskog jezika.",
+                        "PageTags": ["Croatian"]
+                    },
+                    {
+                        "PageTitle": "Bolje.hr",
+                        "PageURL": "http://bolje.hr/",
+                        "PageSummary": "Prijedlozi hrvatskih zamjena za strane riječi i tuđice koje su neprilagođene ušle u uporabu u hrvatskome jeziku.",
+                        "PageTags": ["Croatian"]
+                    },
+                    {
+                        "PageTitle": "HAKOM popis i objašnjenja kratica",
+                        "PageURL": "https://www.hakom.hr/UserDocsImages/2019/e_trziste/Popis%20i%20obja%C5%A1njenja%20kratica%20kori%C5%A1tenih%20u%20dokumentima%20HAKOM-a%2020190319.pdf",
+                        "PageSummary": "Popis i objašnjenja kratica korištenih u dokumentima HAKOM-a.",
+                        "PageTags": ["Croatian"]
+                    },
+                    {
+                        "PageTitle": "Rječnik hrvatskih jezika - Goran Igaly",
+                        "PageURL": "https://github.com/gigaly/rjecnik-hrvatskih-jezika",
+                        "PageSummary": "Besplatni otvoreni hrvatski rječnik za sve namjene.",
+                        "PageTags": ["Croatian"]
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "Translators",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Google Translate",
+                        "PageURL": "https://translate.google.com",
+                        "PageSummary": "Google's free translation service."
+                    },
+                    {
+                        "PageTitle": "DeepL Translator",
+                        "PageURL": "https://www.deepl.com/translator",
+                        "PageSummary": "AI translator."
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "Proofreaders, grammar and spelling checkers",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Grammarly Grammar Check",
+                        "PageURL": "https://www.grammarly.com/grammar-check",
+                        "PageSummary": "Check your English text for grammar, spelling, and punctuation errors."
+                    },
+                    {
+                        "PageTitle": "Hemingway Editor",
+                        "PageURL": "https://hemingwayapp.com/",
+                        "PageSummary": "Hemingway App makes your writing bold and clear with suggestions about your sentences."
+                    },
+                    {
+                        "PageTitle": "Ispravi.me",
+                        "PageURL": "https://ispravi.me/",
+                        "PageSummary": "Aplikacija za računalnu provjeru pravopisa.",
+                        "PageTags": ["Croatian"]
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "Licenses",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "TLDR Legal",
+                        "PageURL": "https://tldrlegal.com/",
+                        "PageSummary": "Software licenses in plain English."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryID": 7,
+        "CategoryTitle": "Fonts",
+        "CategorySummary": "Well, fonts.",
+        "Subcategories": [
+            {
+                "SubcategoryTitle": "",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Google Fonts",
+                        "PageURL": "https://fonts.google.com/",
+                        "PageSummary": "Free and open source fonts by Google."
+                    },
+                    {
+                        "PageTitle": "Font Squirrel",
+                        "PageURL": "https://www.fontsquirrel.com/",
+                        "PageSummary": "100% free fonts licensed for commercial work."
+                    },
+                    {
+                        "PageTitle": "Font Flipper",
+                        "PageURL": "https://fontflipper.com/upload",
+                        "PageSummary": "Recognize fonts from uploaded images, edit and download them."
+                    },
+                    {
+                        "PageTitle": "Fonts.com",
+                        "PageURL": "https://www.fonts.com/",
+                        "PageSummary": "Find, buy and download fonts."
+                    },
+                    {
+                        "PageTitle": "MyFonts",
+                        "PageURL": "https://www.myfonts.com/",
+                        "PageSummary": "Fonts for print, products and screens."
+                    }
+                ]
+            }
+        ]
+    }
+]
