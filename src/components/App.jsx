@@ -1,9 +1,11 @@
 import { useState } from "react"
 import "@fontsource/roboto"
 import { createTheme, ThemeProvider } from "@mui/material/styles"
-import { Switch, Container, Typography, FormGroup, FormControlLabel, CssBaseline } from "@mui/material"
+import { Switch, Container, FormGroup, FormControlLabel, CssBaseline } from "@mui/material"
 import Data from "../data/ToolboxData.json"
 import Category from "./Category/"
+import logo from '../data/logo.svg'
+import '../index.css'
 
 const dark = { palette: { mode: "dark" } }
 const light = { palette: { mode: "light" } }
@@ -26,6 +28,8 @@ export default function App() {
             control={<Switch checked={isDarkTheme} onChange={changeTheme} />}
             label={isDarkTheme ? "Dark" : "Light"} />
         </FormGroup>
+
+        <img className="logo" src={logo} alt="logo" />
 
         {CategoriesList}
 

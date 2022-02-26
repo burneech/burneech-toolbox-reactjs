@@ -8,7 +8,7 @@ export default function Page(props) {
         hasTags = true
         Tags = props.data.PageTags.map((tag) => {
             return (
-                <Chip label={tag} variant="outlined" color="info" size="small" sx={{ mr: 0.5 }} />
+                <Chip label={tag} key={tag} variant="outlined" color="info" size="small" sx={{ mr: 0.5 }} />
             )
         })
     }
