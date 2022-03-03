@@ -46,6 +46,11 @@
                         "PageTitle": "CyberChef",
                         "PageURL": "https://gchq.github.io/CyberChef/",
                         "PageSummary": "The Cyber Swiss Army Knife. Supports more than 300 different operations."
+                    },
+                    {
+                        "PageTitle": "CloudConvert",
+                        "PageURL": "https://cloudconvert.com/",
+                        "PageSummary": "Convert audio, video, documents, ebooks, images etc."
                     }
                 ]
             },
