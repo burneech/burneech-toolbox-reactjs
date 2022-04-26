@@ -295,6 +295,11 @@
                         "PageTitle": "Audiojungle",
                         "PageURL": "https://audiojungle.net/",
                         "PageSummary": "Royalty free music and audio tracks from $1."
+                    },
+                    {
+                        "PageTitle": "ZapSplat",
+                        "PageURL": "https://www.zapsplat.com/",
+                        "PageSummary": "A free sound effects and royalty free music library."
                     }
                 ]
             },
