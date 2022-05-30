@@ -225,6 +225,11 @@
                         "PageTitle": "CSS Icons",
                         "PageURL": "https://css.gg/app",
                         "PageSummary": "App for css.gg icons with custom selection for all pure CSS icons."
+                    },
+                    {
+                        "PageTitle": "Visual Studio Image Library",
+                        "PageURL": "https://www.microsoft.com/en-us/download/details.aspx?id=35825",
+                        "PageSummary": "Application images that appear in Visual Studio, Windows, Office and other Microsoft software."
                     }
                 ]
             },
