@@ -108,6 +108,11 @@
                         "PageTitle": "Profile Pic Maker",
                         "PageURL": "https://pfpmaker.com/",
                         "PageSummary": "Remove background and generate your great looking profile pictures."
+                    },
+                    {
+                        "PageTitle": "Edit Photo",
+                        "PageURL": "https://edit.photo/",
+                        "PageSummary": "A simple free online photo editor."
                     }
                 ]
             },
