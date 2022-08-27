@@ -494,6 +494,12 @@
                         "PageURL": "https://github.com/gigaly/rjecnik-hrvatskih-jezika",
                         "PageSummary": "Besplatni otvoreni hrvatski rječnik za sve namjene.",
                         "PageTags": ["Croatian"]
+                    },
+                    {
+                        "PageTitle": "Jezikoslovac.com",
+                        "PageURL": "https://jezikoslovac.com",
+                        "PageSummary": "Definicije i značenje riječi, primjeri rečenica.",
+                        "PageTags": ["Croatian"]
                     }
                 ]
             },
