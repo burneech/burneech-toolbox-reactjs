@@ -66,11 +66,6 @@
                         "PageTitle": "Favicon.io",
                         "PageURL": "https://favicon.io/",
                         "PageSummary": "Quickly generate your favicon from text, image, or choose from hundreds of emojis."
-                    },
-                    {
-                        "PageTitle": "Random User Generator",
-                        "PageURL": "https://randomuser.me/",
-                        "PageSummary": "A free, open-source API for generating random user data. Like Lorem Ipsum, but for people."
                     }
                 ]
             }
@@ -142,7 +137,7 @@
                 ]
             },
             {
-                "SubcategoryTitle": "Markdown",
+                "SubcategoryTitle": "Text & markdown",
                 "SubcategoryPages": [
                     {
                         "PageTitle": "Dillinger",
@@ -153,6 +148,21 @@
                         "PageTitle": "StackEdit",
                         "PageURL": "https://stackedit.io/app#",
                         "PageSummary": "Online markdown editor with inline comments and collaborator discussions."
+                    },
+                    {
+                        "PageTitle": "Diffchecker",
+                        "PageURL": "https://www.diffchecker.com/",
+                        "PageSummary": "Compare two text files to find differences between them."
+                    },
+                    {
+                        "PageTitle": "Figr.app",
+                        "PageURL": "https://www.figr.app/",
+                        "PageSummary": "Your notepad calculator. If Google Docs and a calculator had a baby."
+                    },
+                    {
+                        "PageTitle": "JSON Crack",
+                        "PageURL": "https://jsoncrack.com/",
+                        "PageSummary": "Simple graph visualisation tool for your JSON data."
                     }
                 ]
             },
@@ -235,6 +245,16 @@
                         "PageTitle": "Visual Studio Image Library",
                         "PageURL": "https://www.microsoft.com/en-us/download/details.aspx?id=35825",
                         "PageSummary": "Application images that appear in Visual Studio, Windows, Office and other Microsoft software."
+                    },
+                    {
+                        "PageTitle": "Iconoir",
+                        "PageURL": "https://iconoir.com/",
+                        "PageSummary": "Free open source icons libraries."
+                    },
+                    {
+                        "PageTitle": "Icons8",
+                        "PageURL": "https://icons8.com/",
+                        "PageSummary": "Free icons, clipart illustrations, photos and music."
                     }
                 ]
             },
@@ -260,6 +280,16 @@
                         "PageTitle": "Vecteezy",
                         "PageURL": "https://www.vecteezy.com/free-photos",
                         "PageSummary": "High quality photography with worry-free licensing for personal and commercial use."
+                    },
+                    {
+                        "PageTitle": "Freepik",
+                        "PageURL": "https://www.freepik.com/",
+                        "PageSummary": "Free vectors, stock photos, icons & PSD downloads."
+                    },
+                    {
+                        "PageTitle": "unDraw",
+                        "PageURL": "https://undraw.co/",
+                        "PageSummary": "Open source illustrations for any idea."
                     }
                 ]
             },
@@ -320,6 +350,11 @@
                         "PageTitle": "Rive",
                         "PageURL": "https://rive.app/",
                         "PageSummary": "Create and ship interactive animations to any platform."
+                    },
+                    {
+                        "PageTitle": "AnimatiSS",
+                        "PageURL": "https://xsgames.co/animatiss/",
+                        "PageSummary": "A tool to preview custom CSS animations and their code."
                     }
                 ]
             },
@@ -330,6 +365,11 @@
                         "PageTitle": "amCharts",
                         "PageURL": "https://www.amcharts.com/svg-maps/",
                         "PageSummary": "Free SVG maps."
+                    },
+                    {
+                        "PageTitle": "maps.earth",
+                        "PageURL": "https://about.maps.earth/",
+                        "PageSummary": "Open-source maps for everyone, powered by Headway and OpenStreetMap."
                     }
                 ]
             }
@@ -409,6 +449,36 @@
                         "PageTitle": "ColorMania",
                         "PageURL": "http://www.blacksunsoftware.com/colormania.html",
                         "PageSummary": "An advanced color picker, created for web-designers, graphic artists and application developers."
+                    },
+                    {
+                        "PageTitle": "Coolors",
+                        "PageURL": "https://coolors.co/",
+                        "PageSummary": "The super fast color palettes generator."
+                    },
+                    {
+                        "PageTitle": "Paletton",
+                        "PageURL": "https://paletton.com/",
+                        "PageSummary": "The color scheme designer."
+                    },
+                    {
+                        "PageTitle": "Khroma",
+                        "PageURL": "http://khroma.co/",
+                        "PageSummary": "The AI color tool for designers."
+                    },
+                    {
+                        "PageTitle": "Adobe Color Wheel",
+                        "PageURL": "https://color.adobe.com/create/color-wheel",
+                        "PageSummary": "Color wheel for generating color palettes."
+                    },
+                    {
+                        "PageTitle": "Muzli Colors",
+                        "PageURL": "https://colors.muz.li/",
+                        "PageSummary": "Color palette generator."
+                    },
+                    {
+                        "PageTitle": "Color Hunt",
+                        "PageURL": "https://colorhunt.co/",
+                        "PageSummary": "Hand-picked color palletes for designers and artists."
                     }
                 ]
             }
@@ -583,6 +653,63 @@
                         "PageTitle": "MyFonts",
                         "PageURL": "https://www.myfonts.com/",
                         "PageSummary": "Fonts for print, products and screens."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CategoryID": 8,
+        "CategoryTitle": "APIs",
+        "CategorySummary": "All kinds of free open-source APIs",
+        "Subcategories": [
+            {
+                "SubcategoryTitle": "APIs",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Public APIs",
+                        "PageURL": "https://github.com/public-apis/public-apis",
+                        "PageSummary": "A collective list of free APIs for use in software and web development."
+                    },
+                    {
+                        "PageTitle": "Random User Generator",
+                        "PageURL": "https://randomuser.me/",
+                        "PageSummary": "A free, open-source API for generating random user data. Like Lorem Ipsum, but for people."
+                    },
+                    {
+                        "PageTitle": "Open Trivia Database API",
+                        "PageURL": "https://opentdb.com/api_config.php",
+                        "PageSummary": "A completely free JSON API for use in programming projects."
+                    },
+                    {
+                        "PageTitle": "Mockable",
+                        "PageURL": "https://www.mockable.io/",
+                        "PageSummary": "Create and manage mock APIs."
+                    }
+                ]
+            },
+            {
+                "SubcategoryTitle": "API software",
+                "SubcategoryPages": [
+                    {
+                        "PageTitle": "Postman",
+                        "PageURL": "https://www.postman.com/",
+                        "PageSummary": "An API platform for building and using APIs."
+                    },
+                    {
+                        "PageTitle": "Hoppscotch",
+                        "PageURL": "https://hoppscotch.io/",
+                        "PageSummary": "An open-source API development ecosystem."
+                    },
+                    {
+                        "PageTitle": "Insomnia",
+                        "PageURL": "https://insomnia.rest/",
+                        "PageSummary": "Deliver high quality APIs through standards and collaboration with the Insomnia API design platform."
+                    },
+                    {
+                        "PageTitle": "Nightingale",
+                        "PageURL": "https://nightingale.rest/",
+                        "PageSummary": "A modern, resource-friendly REST client for Windows."
                     }
                 ]
             }
