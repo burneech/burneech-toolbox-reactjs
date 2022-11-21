@@ -570,6 +570,12 @@
                         "PageURL": "https://jezikoslovac.com",
                         "PageSummary": "Definicije i značenje riječi, primjeri rečenica.",
                         "PageTags": ["Croatian"]
+                    },
+                    {
+                        "PageTitle": "Školski rječnik hrvatskog jezika",
+                        "PageURL": "https://rjecnik.hr/",
+                        "PageSummary": "Rječnik namijenjen učenicima osnovnih i srednjih škola, ali i svima koji se služe hrvatskim standardnim jezikom.",
+                        "PageTags": ["Croatian"]
                     }
                 ]
             },
