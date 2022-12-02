@@ -163,6 +163,11 @@
                         "PageTitle": "JSON Crack",
                         "PageURL": "https://jsoncrack.com/",
                         "PageSummary": "Simple graph visualisation tool for your JSON data."
+                    },
+                    {
+                        "PageTitle": "JSON Hero",
+                        "PageURL": "https://jsonhero.io/",
+                        "PageSummary": "Makes reading and understanding JSON files easy by giving you a clean and beautiful UI packed with extra features."
                     }
                 ]
             },
@@ -172,7 +177,12 @@
                     {
                         "PageTitle": "SketchUp",
                         "PageURL": "https://app.sketchup.com/app",
-                        "PageSummary": "A simple (but still powerful enough) and free 3D modeling software."
+                        "PageSummary": "A simple but powerful, free 3D modeling software."
+                    },
+                    {
+                        "PageTitle": "Blender",
+                        "PageURL": "https://www.blender.org/",
+                        "PageSummary": "Blender is a free and open source 3D creation suite."
                     }
                 ]
             }
