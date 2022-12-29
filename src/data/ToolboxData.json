@@ -51,6 +51,11 @@
                         "PageTitle": "CloudConvert",
                         "PageURL": "https://cloudconvert.com/",
                         "PageSummary": "Convert audio, video, documents, ebooks, images etc."
+                    },
+                    {
+                        "PageTitle": "World Time Buddy",
+                        "PageURL": "https://www.worldtimebuddy.com/",
+                        "PageSummary": "A world clock - time zone converter. Effortlessly compare multiple time zones at a glance."
                     }
                 ]
             },
@@ -265,6 +270,26 @@
                         "PageTitle": "Icons8",
                         "PageURL": "https://icons8.com/",
                         "PageSummary": "Free icons, clipart illustrations, photos and music."
+                    },
+                    {
+                        "PageTitle": "Fluent UI System Icons",
+                        "PageURL": "https://github.com/microsoft/fluentui-system-icons",
+                        "PageSummary": "A collection of familiar, friendly and modern icons from Microsoft."
+                    },
+                    {
+                        "PageTitle": "Iconduck",
+                        "PageURL": "https://iconduck.com/",
+                        "PageSummary": "Free open source icons, illustrations, emojis and graphics."
+                    },
+                    {
+                        "PageTitle": "SVG Repo",
+                        "PageURL": "https://www.svgrepo.com/",
+                        "PageSummary": "400000+ open licensed SVG vector and icons."
+                    },
+                    {
+                        "PageTitle": "Snoweb SVG",
+                        "PageURL": "https://www.snoweb-svg.com/",
+                        "PageSummary": "An open source library designed for developers and for efficient and optimized websites."
                     }
                 ]
             },
@@ -300,6 +325,16 @@
                         "PageTitle": "unDraw",
                         "PageURL": "https://undraw.co/",
                         "PageSummary": "Open source illustrations for any idea."
+                    },
+                    {
+                        "PageTitle": "Doodad.dev's Pattern Generator/",
+                        "PageURL": "https://doodad.dev/pattern-generator/",
+                        "PageSummary": "Create seamless, royalty-free patterns."
+                    },
+                    {
+                        "PageTitle": "SKUAWK",
+                        "PageURL": "https://skuawk.com/",
+                        "PageSummary": "A photography website with public domain images."
                     }
                 ]
             },
@@ -380,6 +415,11 @@
                         "PageTitle": "maps.earth",
                         "PageURL": "https://about.maps.earth/",
                         "PageSummary": "Open-source maps for everyone, powered by Headway and OpenStreetMap."
+                    },
+                    {
+                        "PageTitle": "MapLibre",
+                        "PageURL": "https://maplibre.org/",
+                        "PageSummary": "Open-source mapping libraries for web and mobile app developers."
                     }
                 ]
             }
@@ -489,6 +529,16 @@
                         "PageTitle": "Color Hunt",
                         "PageURL": "https://colorhunt.co/",
                         "PageSummary": "Hand-picked color palletes for designers and artists."
+                    },
+                    {
+                        "PageTitle": "colorpalettes.earth",
+                        "PageURL": "https://colorpalettes.earth/",
+                        "PageSummary": "Color palettes inspired by beautiful nature photos."
+                    },
+                    {
+                        "PageTitle": "Doodad.dev's Gradient Generator",
+                        "PageURL": "https://doodad.dev/gradient-generator/",
+                        "PageSummary": "Create CSS, SVG and PNG color gradients."
                     }
                 ]
             }
@@ -521,6 +571,11 @@
                         "PageTitle": "HTML5 Character Reference",
                         "PageURL": "https://dev.w3.org/html5/html-author/charref",
                         "PageSummary": "HTML5 character reference."
+                    },
+                    {
+                        "PageTitle": "Unicode Arrows",
+                        "PageURL": "https://unicodearrows.com/all-arrows",
+                        "PageSummary": "Unicode arrow symbol collection."
                     }
                 ]
             },
@@ -669,6 +724,11 @@
                         "PageTitle": "MyFonts",
                         "PageURL": "https://www.myfonts.com/",
                         "PageSummary": "Fonts for print, products and screens."
+                    },
+                    {
+                        "PageTitle": "UNCUT",
+                        "PageURL": "https://uncut.wtf/",
+                        "PageSummary": "A (mostly) libre typeface catalogue, focusing on somewhat contemporary type."
                     }
                 ]
             }
