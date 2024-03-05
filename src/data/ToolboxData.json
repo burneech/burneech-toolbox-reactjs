@@ -786,6 +786,11 @@
                         "PageTitle": "Nightingale",
                         "PageURL": "https://nightingale.rest/",
                         "PageSummary": "A modern, resource-friendly REST client for Windows."
+                    },
+                    {
+                        "PageTitle": "HTTPie",
+                        "PageURL": "https://httpie.io/",
+                        "PageSummary": "An API testing client."
                     }
                 ]
             }
