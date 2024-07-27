@@ -335,6 +335,16 @@
                         "PageTitle": "SKUAWK",
                         "PageURL": "https://skuawk.com/",
                         "PageSummary": "A photography website with public domain images."
+                    },
+                    {
+                        "PageTitle": "O-DAN",
+                        "PageURL": "https://o-dan.net/en/",
+                        "PageSummary": "Cross-searching for high quality free stock photos."
+                    },
+                    {
+                        "PageTitle": "The Stocks 3",
+                        "PageURL": "https://thestocks.im/",
+                        "PageSummary": "Royalty free stock photos, videos, mockups, icons and fonts."
                     }
                 ]
             },
@@ -539,6 +549,11 @@
                         "PageTitle": "Doodad.dev's Gradient Generator",
                         "PageURL": "https://doodad.dev/gradient-generator/",
                         "PageSummary": "Create CSS, SVG and PNG color gradients."
+                    },
+                    {
+                        "PageTitle": "Material UI Colors",
+                        "PageURL": "https://materialuicolors.co/",
+                        "PageSummary": "Color palette for material design."
                     }
                 ]
             }
@@ -576,6 +591,11 @@
                         "PageTitle": "Unicode Arrows",
                         "PageURL": "https://unicodearrows.com/all-arrows",
                         "PageSummary": "Unicode arrow symbol collection."
+                    },
+                    {
+                        "PageTitle": "EmojiDB",
+                        "PageURL": "https://emojidb.org/",
+                        "PageSummary": "An extensive database of emojis."
                     }
                 ]
             },
@@ -656,6 +676,12 @@
                         "PageTitle": "DeepL Translator",
                         "PageURL": "https://www.deepl.com/translator",
                         "PageSummary": "AI translator."
+                    },
+                    {
+                        "PageTitle": "Hrvojka",
+                        "PageURL": "https://hrvojka.gov.hr",
+                        "PageSummary": "National Language Technology Platform AI translator.",
+                        "PageTags": ["Croatian"]
                     }
                 ]
             },
