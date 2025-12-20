@@ -138,6 +138,11 @@
                         "PageTitle": "Google Jamboard",
                         "PageURL": "https://jamboard.google.com/",
                         "PageSummary": "A simple interactive whiteboard."
+                    },
+                    {
+                        "PageTitle": "Excalidraw",
+                        "PageURL": "https://excalidraw.com/",
+                        "PageSummary": "A virtual collaborative whiteboard tool."
                     }
                 ]
             },
@@ -395,6 +400,11 @@
                         "PageTitle": "ZapSplat",
                         "PageURL": "https://www.zapsplat.com/",
                         "PageSummary": "A free sound effects and royalty free music library."
+                    },
+                    {
+                        "PageTitle": "Jamendo",
+                        "PageURL": "https://www.jamendo.com/",
+                        "PageSummary": "Free music downloads and streaming."
                     }
                 ]
             },
@@ -787,6 +797,11 @@
                         "PageTitle": "Mockable",
                         "PageURL": "https://www.mockable.io/",
                         "PageSummary": "Create and manage mock APIs."
+                    },
+                    {
+                        "PageTitle": "JSONPlaceholder",
+                        "PageURL": "https://jsonplaceholder.typicode.com/",
+                        "PageSummary": "Free fake and reliable API for testing and prototyping."
                     }
                 ]
             },
